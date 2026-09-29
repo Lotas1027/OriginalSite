@@ -1,0 +1,92 @@
+body {
+  color: #333333;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-size: 70px;
+  letter-spacing: 5px;
+}
+
+h2 {
+  margin: 0;
+}
+
+#top {
+  background-image: url(image/AIbs-85_51_TP_V.jpg);
+  background-size: cover;
+  color: #f6f6f6;
+  padding: 200px 0;
+}
+
+#about {
+  background-image: url(image/AIbs-85_42_TP_V.jpg);
+  background-color: #F6F6F6;
+  padding: 100px;
+  font-size: 50px;
+  color:  #d17bac;
+}
+
+#skills {
+  background-color: #d17bac;
+  padding: 100px;
+  font-size: 50px;
+}
+
+#portfolio {
+  background-color: #F6F6F6;
+  padding: 100px;
+  font-size: 50px;
+}
+
+#favorite {
+  background-image: url(image/9fabb124-01ec-41c0-8431-b836666acdf9.png);
+  background-color: #d17bac;
+  padding: 100px;
+  font-size: 50px;
+  color: #f6f6f6;
+}
+
+#profile {
+  background-color: #7BC3D1;
+  padding: 100px;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+header {
+  background-color: #333333;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+header img {
+  height: 30px;
+}
+
+header ul {
+  margin: 0;
+  display: flex;
+}
+
+header ul li {
+  padding: 0 20px;
+}
+
+header ul li a {
+  color: #FFFFFF;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+header ul li a:hover {
+  color: #7BC3D1;
+}
+
+footer {
+  background-color: #333333;
+  color: #FFFFFF;
+  padding: 10px;
+}
